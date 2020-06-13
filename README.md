@@ -9,8 +9,6 @@ _Limz Panel 是一个简易的用户面板_
  4.  Enjoy !
 
 ## 其他
-由于写得比较仓促，肯定会有什么不足的地方，欢迎邮件给我提出问题！也可以和我一起讨论：`lililili@lililili.net`
+由于写得比较仓促，肯定会有什么不足的地方，欢迎邮件给我提出问题！
 
 同时，欢迎 fork ！
-
-[MIT 开源许可](https://coding.net/u/imByteCat/p/Limz/git/blob/master/LICENSE)
